@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: datetime
-        image: yourdockerhubusername/go-datetime-app
+        image: spallavibhat/go-datetime-app
         ports:
         - containerPort: 8080
